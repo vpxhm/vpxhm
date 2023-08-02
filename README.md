@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Embedded Engineer 🤖 </h1>
+<h1 align="center">Hi 👋, I'm an Embedded Engineer 🤖 </h1>
 <h3 align="center">Specialized in Embedded systems, IoT and cloud technologies. Skilled in designing and integrating hardware and software</h3>
 
 - 👨🏻‍💻 I’m currently working on **Embedded Systems**
