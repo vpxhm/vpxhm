@@ -13,19 +13,17 @@ Specialized in embedded systems, IoT and cloud technologies. Skilled in designin
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vpxhm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/vpxhm?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vpxhm?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+</p>
 ---
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
-#
 ### 📊 Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vpxhm&show_icons=true&locale=en&layout=compact" alt="vpxhm" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vpxhm&show_icons=true&locale=en" alt="vpxhm" /></p>
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=vpxhm&theme=gruvbox&border_radius=4.5) -->
 #
 <details>
  <summary><h3>👨‍💻 Varun's Journey</h3></summary>
