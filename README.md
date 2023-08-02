@@ -14,21 +14,19 @@ Specialized in embedded systems, IoT and cloud technologies. Skilled in designin
       <a href="https://github.com/vpxhm?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vpxhm?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
-   ---
+---
 ### 🧰 Languages and Tools
-
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
-
 #
 ### 📊 Stats
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpxhm&show_icons=true&theme=gruvbox)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vpxhm&show_icons=true&locale=en&layout=compact" alt="vpxhm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vpxhm&show_icons=true&locale=en" alt="vpxhm" /></p>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=vpxhm&theme=gruvbox&border_radius=4.5) -->
 #
-
 <details>
  <summary><h3>👨‍💻 Varun's Journey</h3></summary>
 "Hey there, I'm Varun Pallod, an Electronics and Communication Engineer specializing in Embedded Systems, IoT, and Machine Learning. With a solid background in hardware and programming, I've crafted smart home solutions. My knack for innovation extends to the realm of videography and video editing, where I create visually captivating content. Proficient in languages like C/C++ and Python, I'm passionate about pushing the boundaries of technology and visual artistry. Let's collaborate and shape the future together – feel free to connect with me on GitHub or any platform!"
