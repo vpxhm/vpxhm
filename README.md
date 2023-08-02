@@ -2,7 +2,12 @@
 **`Engineer(Embedded Systems/IoT/Video Editor)`**
 Specialized in embedded systems, IoT and cloud technologies. Skilled in designing and integrating hardware and software. A quick and adaptive learner with a positive mindset, actively seeking collaborative opportunities to make a profound impact in the dynamic realm of technology.
 
-  <p align="left">
+
+    <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/samarth69908166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@varun_pallod" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/varun-pallod-8b9ab11b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-pallod-8b9ab11b9" height="30" width="40" /></a>
+</p>
   </a> 
       <a href="https://github.com/vpxhm?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vpxhm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
