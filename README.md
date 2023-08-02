@@ -1,5 +1,5 @@
 # Varun Pallod 🤖
-**`Engineer (Embedded Systems/IoT/Video Editor)`**
+**`Engineer(Embedded Systems/IoT/Video Editor)`**
 Specialized in embedded systems, IoT and cloud technologies. Skilled in designing and integrating hardware and software. A quick and adaptive learner with a positive mindset, actively seeking collaborative opportunities to make a profound impact in the dynamic realm of technology.
 
   <p align="left">
@@ -20,7 +20,7 @@ Specialized in embedded systems, IoT and cloud technologies. Skilled in designin
 
 #
 ### 📊 Stats
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpxhm&show_icons=true&theme=gruvbox)
+![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpxhm&show_icons=true&theme=gruvbox)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=vpxhm&theme=gruvbox&border_radius=4.5) -->
 #
 
