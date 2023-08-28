@@ -9,8 +9,8 @@
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/varun_pallod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@varun_pallod" height="30" width="40"/> &nbsp;&nbsp;
-<a href="https://linkedin.com/in/varun-pallod-8b9ab11b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-pallod-8b9ab11b9" height="30" width="40" />
+<a href="https://twitter.com/varun_pallod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@varun_pallod" height="35" width="30"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/varun-pallod-8b9ab11b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-pallod-8b9ab11b9" height="35" width="30" </a>
  <p align="left">
       <a href="https://github.com/vpxhm?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vpxhm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=personadd&label=Follow&logoColor=white"/></a>
