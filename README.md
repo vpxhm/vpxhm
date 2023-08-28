@@ -35,6 +35,8 @@
     &nbsp;&nbsp;
     <img alt="MySQL" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     &nbsp;&nbsp;
+    <img alt="Rasberry Pi" width="40px" height="40px" src="https://img.icons8.com/?size=512&id=13443&format=png">
+    &nbsp;&nbsp;
     <img alt="Matlab" width="40px" height="40px" src="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File/blob/main/SVG%20Icons/Programming%20Languages%20SVG%20Icons/matlab.svg">
     &nbsp;&nbsp;
      <img alt="Keil u vision" width="36px" height="36px" src="https://img.95262.com/imges/2018/0515/20180515095328631.jpg">
