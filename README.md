@@ -20,15 +20,26 @@
 
 ---
 ### 🧰 Languages and Tools
-<table>
-  <tr> 
-    <td><img alt="Python" width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"></td>
-    <td><img alt="C++" width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"></td>
-    <td><img alt="Git" width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></td>
-    <td><img alt="PostgreSQL" width="35px" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></td>
-    <td><img alt="MySQL" width="35px" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></td>
-</tr>
-</table>
+<p align="Left">
+    <img alt="Arduino IDE" width="40px" height="40px" src="http://content.arduino.cc/brand/arduino-color.svg"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="C Language" width="40px" height="40px" src="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File/blob/main/SVG%20Icons/Programming%20Languages%20SVG%20Icons/c-programming.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="C++" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Python" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="PostgreSQL" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="MySQL" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Matlab" width="40px" height="40px" src="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File/blob/main/SVG%20Icons/Programming%20Languages%20SVG%20Icons/matlab.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Canva" width="40px" height="40px" src="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File/blob/main/SVG%20Icons/Design%20%26%20CSS%20Libraries%20SVG%20Icons/canva.svg">
+</p>
+
 
 
 ### 📊 Stats
