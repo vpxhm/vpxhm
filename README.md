@@ -35,7 +35,7 @@
 ![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpxhm&show_icons=true&theme=gruvbox)
 
 <details>
- <summary><h3>👨‍💻 Varun's Journey</h3></summary>
+ <summary><h3>👨‍💻 My Journey</h3></summary>
 "Hey there, I'm Varun Pallod, an Electronics and Communication Engineer specializing in Embedded Systems, IoT, and Machine Learning. With a solid background in hardware and programming, I've crafted smart home solutions. My knack for innovation extends to the realm of videography and video editing, where I create visually captivating content. Proficient in languages like C/C++ and Python, I'm passionate about pushing the boundaries of technology and visual artistry. Let's collaborate and shape the future together – feel free to connect with me on GitHub or any platform!"
 
 <!---
