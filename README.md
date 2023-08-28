@@ -7,10 +7,10 @@
 - 💬 Ask me about **Electronincs, Embedded Systems**
 - 📩 How to reach me  **itsmevp2501@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/varun_pallod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@varun_pallod" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varun-pallod-8b9ab11b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-pallod-8b9ab11b9" height="30" width="40" /></a>
+<a href="https://twitter.com/varun_pallod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@varun_pallod" height="30" width="40"/> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/varun-pallod-8b9ab11b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-pallod-8b9ab11b9" height="30" width="40" />
  <p align="left">
       <a href="https://github.com/vpxhm?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vpxhm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=personadd&label=Follow&logoColor=white"/></a>
@@ -22,21 +22,21 @@
 ### 🧰 Languages and Tools
 <p align="Left">
     <img alt="Arduino IDE" width="40px" height="40px" src="http://content.arduino.cc/brand/arduino-color.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <img alt="C Language" width="40px" height="40px" src="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File/blob/main/SVG%20Icons/Programming%20Languages%20SVG%20Icons/c-programming.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <img alt="C++" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <img alt="Python" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <img alt="Git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <img alt="PostgreSQL" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <img alt="MySQL" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <img alt="Matlab" width="40px" height="40px" src="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File/blob/main/SVG%20Icons/Programming%20Languages%20SVG%20Icons/matlab.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <img alt="Canva" width="40px" height="40px" src="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File/blob/main/SVG%20Icons/Design%20%26%20CSS%20Libraries%20SVG%20Icons/canva.svg">
 </p>
 
