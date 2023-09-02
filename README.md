@@ -4,7 +4,7 @@
 - 👨🏻‍💻 I’m currently working on **Embedded Systems**
 - 📝 I’m currently learning **Internet of Things**
 - 📢 Open for collaboration on **Embedded devices and Projects**
-- 💬 Ask me about **Electronincs, Embedded Systems**
+- 💬 Ask me about **Electronincs**
 - 📩 How to reach me  **itsmevp2501@gmail.com**
 
 <h3 align="left"> Connect with me:</h3>
