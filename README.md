@@ -37,11 +37,11 @@
     &nbsp;&nbsp;
     <img alt="Rasberry Pi" width="40px" height="40px" src="https://img.icons8.com/?size=512&id=13443&format=png">
     &nbsp;&nbsp;
-    <img alt="Matlab" width="40px" height="40px" src="https://img.icons8.com/?size=512&id=r5Y16PcDkoWI&format=png">
+    <img alt="Matlab" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
     &nbsp;&nbsp;
      <img alt="Keil u vision" width="36px" height="36px" src="https://img.95262.com/imges/2018/0515/20180515095328631.jpg">
     &nbsp;&nbsp;
-    <img alt="Canva" width="42px" height="42px" src="https://img.icons8.com/?size=512&id=lAWjO4LexGga&format=png">
+    <img alt="Canva" width="42px" height="42px" src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png">
 </p>
 
 
